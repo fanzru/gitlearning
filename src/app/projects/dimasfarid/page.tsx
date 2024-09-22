@@ -8,7 +8,7 @@ export default function FanzruProject() {
           <div className="mt-6">
             <div className="w-32 h-32 bg-yellow-500 rounded-full mx-auto flex items-center justify-center">
               <img
-                src="https://fanzru.dev/_next/image?url=%2Ffanzru-no-bg.png&w=2048&q=75"
+                src="https://avatars.githubusercontent.com/u/149381357?v=4"
                 alt="Fanzru's Avatar"
                 className="rounded-full"
               />
