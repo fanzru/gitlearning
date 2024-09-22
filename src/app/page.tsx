@@ -19,7 +19,15 @@ export default function Home() {
       technologies: ['Next.js', 'Typescript', 'TailwindCSS', 'Golang'],
       summary: 'Satya Bintang Ramdhani, sebagai mahasiswa IT, memiliki pemahaman yang baik dalam pemrograman, seperti Python, Java, dan C++. Contohnya, dalam salah satu proyek kuliahnya, ia mengembangkan aplikasi manajemen tugas menggunakan Python dan framework Django, yang membantu pengguna mengatur dan memprioritaskan pekerjaan mereka. Selain itu, ia juga menguasai konsep keamanan jaringan, seperti firewall dan enkripsi, yang ia praktikkan saat membantu mendesain sistem keamanan untuk jaringan kampus.',
       link: '/projects/indobin',
-    }
+    },
+    {
+      name: 'Widya/Dio Nugraha/304-Chan',
+      role: 'Sysadmin',
+      avatar: 'https://avatars.githubusercontent.com/u/56766061?v=4',
+      technologies: ['Rem','Violet'],
+      summary: '-',
+      link: '#',
+    },
   ];
 
   const testimonials = [
@@ -34,6 +42,12 @@ export default function Home() {
       feedback: 'This event is amazing! I learned a lot about GIT and how to collaborate with my team.',
       avatar: 'https://avatars.githubusercontent.com/u/107668671?v=4',
       role: 'mahasiswa Jember',
+    },
+    {
+      name: 'Widya Cui',
+      feedback: 'keren',
+      avatar: 'https://avatars.githubusercontent.com/u/107668671?v=4',
+      role: 'Sysadmin',
     }
   ];
 
