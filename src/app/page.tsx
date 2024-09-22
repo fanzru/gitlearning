@@ -54,7 +54,7 @@ export default function Home() {
       feedback: 'The Git training session was highly informative, providing clear, hands-on guidance on version control essentials. It was well-paced and helped solidify my understanding of branching and collaboration workflows.',
       avatar: 'https://avatars.githubusercontent.com/u/109955813?s=400&v=4',
       role: 'Software Engineer',
-    },,
+    },
     {
       name: 'Muhammad Syarif Yahya S.H',
       feedback: 'The Git training session was highly informative, providing clear, hands-on guidance on version control essentials. It was well-paced and helped solidify my understanding of branching and collaboration workflows.',
