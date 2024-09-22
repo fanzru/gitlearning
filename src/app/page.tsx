@@ -19,6 +19,13 @@ export default function Home() {
       technologies: ['Next.js', 'Typescript', 'TailwindCSS', 'Golang'],
       summary: 'Satya Bintang Ramdhani, sebagai mahasiswa IT, memiliki pemahaman yang baik dalam pemrograman, seperti Python, Java, dan C++. Contohnya, dalam salah satu proyek kuliahnya, ia mengembangkan aplikasi manajemen tugas menggunakan Python dan framework Django, yang membantu pengguna mengatur dan memprioritaskan pekerjaan mereka. Selain itu, ia juga menguasai konsep keamanan jaringan, seperti firewall dan enkripsi, yang ia praktikkan saat membantu mendesain sistem keamanan untuk jaringan kampus.',
       link: '/projects/indobin',
+    },{
+      name: 'Anand Hari Krsna',
+      role: 'Software Engineer',
+      avatar: 'https://avatars.githubusercontent.com/u/109955813?s=400&v=4',
+      technologies: ['Laravel', 'C', 'TailwindCSS'],
+      summary: 'Anand is a College Student in Information Technology from Udayana University.',
+      link: '/projects/anand',
     }
   ];
 
@@ -34,7 +41,13 @@ export default function Home() {
       feedback: 'This event is amazing! I learned a lot about GIT and how to collaborate with my team.',
       avatar: 'https://avatars.githubusercontent.com/u/107668671?v=4',
       role: 'mahasiswa Jember',
-    }
+    },
+    {
+      name: 'Anand Hari Krsna',
+      feedback: 'The Git training session was highly informative, providing clear, hands-on guidance on version control essentials. It was well-paced and helped solidify my understanding of branching and collaboration workflows.',
+      avatar: 'https://avatars.githubusercontent.com/u/109955813?s=400&v=4',
+      role: 'Software Engineer',
+    },
   ];
 
   return (
