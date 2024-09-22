@@ -20,7 +20,7 @@ export default function FanzruProject() {
         <section className="mb-12">
           <h2 className="text-4xl font-bold mb-4">About</h2>
           <p className="text-lg">
-            I am a fresh graduate from Bachelor of Informatics at Telkom University with 3+ years experience (calculate) (ex: XL Axiata, GoTo, Tokopedia) with an interest in Software, Business and Product Engineering. I have loved business and IT since I was in junior high school by being an SSH Server seller and HP technician. Since college, I have tried many things from Product Manager, Business Analyst, UI/UX Design, Software Engineer and Mobile Engineer.
+          Satya Bintang Ramdhani is an Information Technology (IT) student with a passion for solving complex technical challenges and developing innovative solutions. Throughout his studies, Satya has gained a strong foundation in programming languages such as Python, Java, and C++, along with expertise in areas like cybersecurity, networking, and cloud computing.
           </p>
         </section>
   
