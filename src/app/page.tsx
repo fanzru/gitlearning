@@ -26,6 +26,13 @@ export default function Home() {
       technologies: ['Laravel', 'C', 'TailwindCSS'],
       summary: 'Anand is a College Student in Information Technology from Udayana University.',
       link: '/projects/anand',
+    },{
+      name: 'Muhammad Syarif Yahya S.H',
+      role: 'Software Engineer',
+      avatar: 'https://avatars.githubusercontent.com/u/110276845?v=4',
+      technologies: ['ExpressJS', 'NodeJS'],
+      summary: 'Muhammad Syarif Yahya S.H is a Software Engineer with 3 years of experience in building web applications from Universitas Madura.',
+      link: '/projects/syarif',
     }
   ];
 
@@ -46,6 +53,12 @@ export default function Home() {
       name: 'Anand Hari Krsna',
       feedback: 'The Git training session was highly informative, providing clear, hands-on guidance on version control essentials. It was well-paced and helped solidify my understanding of branching and collaboration workflows.',
       avatar: 'https://avatars.githubusercontent.com/u/109955813?s=400&v=4',
+      role: 'Software Engineer',
+    },
+    {
+      name: 'Muhammad Syarif Yahya S.H',
+      feedback: 'The Git training session was highly informative, providing clear, hands-on guidance on version control essentials. It was well-paced and helped solidify my understanding of branching and collaboration workflows.',
+      avatar: 'https://avatars.githubusercontent.com/u/110276845?v=4',
       role: 'Software Engineer',
     },
   ];
