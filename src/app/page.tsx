@@ -11,6 +11,14 @@ export default function Home() {
       technologies: ['Next.js', 'Typescript', 'TailwindCSS', 'Golang'],
       summary: 'Ananda is a software engineer with 3 years of experience in building web applications.',
       link: '/projects/fanzru',
+    },
+    {
+      name: 'Muhammad Syarif Yahya S.H',
+      role: 'Backend Developer',
+      avatar: 'https://avatars.githubusercontent.com/u/110276845?v=4A',
+      technologies: ['ExpressJS', 'NodeJS'],
+      summary: 'Syarif is a backend developer with 2 years of experience in building RESTful APIs.',
+      link: '/projects/syarif',
     }
   ];
 
@@ -20,6 +28,12 @@ export default function Home() {
       feedback: 'This event is amazing! I learned a lot about GIT and how to collaborate with my team.',
       avatar: 'https://media.licdn.com/dms/image/v2/C5603AQFhGAr8bu-rtQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1628616651792?e=1732147200&v=beta&t=2f9P1hqLE07rwxYBmfym-Ly9Z1JzzjUQW_VDmxvuFHA',
       role: 'Software Engineer',
+    },
+    {
+      name: 'Muhammad Syarif Yahya S.H',
+      feedback: 'Saya sangat senang bisa mengikuti event ini. Saya belajar banyak tentang GIT dan bagaimana cara berkolaborasi dengan tim.',
+      avatar: 'https://avatars.githubusercontent.com/u/110276845?v=4A',
+      role: 'Backend Developer',
     }
   ];
 
