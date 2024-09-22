@@ -11,6 +11,14 @@ export default function Home() {
       technologies: ['Next.js', 'Typescript', 'TailwindCSS', 'Golang'],
       summary: 'Ananda is a software engineer with 3 years of experience in building web applications.',
       link: '/projects/fanzru',
+    },
+    {
+      name: 'Dimas Farid Ali Husaini Syafa',
+      role: 'Student Web Developer',
+      avatar: 'https://avatars.githubusercontent.com/u/149381357?v=4',
+      technologies: ['Laravel', 'Bootstrap', 'TailwindCSS'],
+      summary: 'Saya Merupakan Mahasiswa aktif yang berminat dalam bidang teknologi & informasi',
+      link: '/projects/dimasfarid',
     }
   ];
 
